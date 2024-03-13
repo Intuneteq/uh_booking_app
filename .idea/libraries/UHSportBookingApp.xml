@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UHSportBookingApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UHSportBookingApp/out/artifacts/UHSportBookingApp_jar/UHSportBookingApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
